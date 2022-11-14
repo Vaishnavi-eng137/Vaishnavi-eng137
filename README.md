@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaishnavi Kumari
-- 👀 I’m interested in Data Engineering,Data science,Blockchain and web development.
+- 👀 I’m interested in Data analysis,Engineering,Data science,Blockchain and web development.
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
